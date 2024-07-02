@@ -1,0 +1,24 @@
+.nav-header{
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   background-color: lightblue;
+   
+}
+.logo{
+    margin-left: 20px;
+    background-color: darkcyan;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 6px;
+}
+.nav-elements{
+display: flex;
+list-style-type: none;
+margin-right: 10px;
+}
+.nav-item{
+    margin-left: 15px;
+}
